@@ -42,4 +42,7 @@ Details about Sleep Disorder Column:
 None: The individual does not exhibit any specific sleep disorder. Insomnia: The individual experiences difficulty falling asleep or staying asleep, leading to inadequate or poor-quality sleep. Sleep Apnea: The individual suffers from pauses in breathing during sleep, resulting in disrupted sleep patterns and potential health risks.
 
 # Acknowledgement:
-I would like to clarify that the data I am presenting is synthetic and created by me for illustrative purposes.
+I would like to clarify that the data I am presenting is synthetic and created by me for illustrative purposes.![Screenshot 2024-03-14 152553](https://github.com/khairuldzulqarnain/Sleep-Health-and-Lifestyle/assets/107108078/56a944e9-d10c-43d5-8479-51f279b84294)
+![Screenshot 2024-03-14 152435](https://github.com/khairuldzulqarnain/Sleep-Health-and-Lifestyle/assets/107108078/82840344-95ca-42f1-9676-ccb33f8a0c11)
+![Screenshot 2024-03-14 151603](https://github.com/khairuldzulqarnain/Sleep-Health-and-Lifestyle/assets/107108078/82c091d7-64b5-4241-8964-9fa625e19250)
+
