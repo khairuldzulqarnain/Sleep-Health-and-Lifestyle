@@ -43,6 +43,9 @@ None: The individual does not exhibit any specific sleep disorder. Insomnia: The
 
 # Acknowledgement:
 I would like to clarify that the data I am presenting is synthetic and created by me for illustrative purposes.![Screenshot 2024-03-14 152553](https://github.com/khairuldzulqarnain/Sleep-Health-and-Lifestyle/assets/107108078/56a944e9-d10c-43d5-8479-51f279b84294)
+![Screenshot 2024-03-14 151635](https://github.com/khairuldzulqarnain/Sleep-Health-and-Lifestyle/assets/107108078/b4c161e9-e9bc-41da-82e2-354c28c1b31e)
 ![Screenshot 2024-03-14 152435](https://github.com/khairuldzulqarnain/Sleep-Health-and-Lifestyle/assets/107108078/82840344-95ca-42f1-9676-ccb33f8a0c11)
 ![Screenshot 2024-03-14 151603](https://github.com/khairuldzulqarnain/Sleep-Health-and-Lifestyle/assets/107108078/82c091d7-64b5-4241-8964-9fa625e19250)
+![Screenshot 2024-03-14 152719](https://github.com/khairuldzulqarnain/Sleep-Health-and-Lifestyle/assets/107108078/38b48563-6575-42de-9a37-25a9b2752c34)
+
 
